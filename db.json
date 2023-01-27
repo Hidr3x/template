@@ -9,8 +9,8 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
    "images": [
-    { "id": 1, "body": "some comment", "postId": "https://unsplash.com/photos/yC-Yzbqy7PY" },
-    { "id": 2, "body": "some comment", "postId": "https://unsplash.com/photos/yC-Yzbqy7PY"}
+    { "id": 1, "img": "https://unsplash.com/photos/yC-Yzbqy7PY", "imgId": 1 },
+    { "id": 2, "img": "https://unsplash.com/photos/yC-Yzbqy7PY", "imgId": 2}
   ],
   "profile": {
     "name": "typicode"
